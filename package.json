@@ -1,0 +1,27 @@
+{
+  "name": "contratos",
+  "version": "1.0.0",
+  "description": "test of smartcontracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgdj92/contratos.git"
+  },
+  "keywords": [
+    "solidity",
+    "smartcontracts",
+    "ethereum"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgdj92/contratos/issues"
+  },
+  "homepage": "https://github.com/jorgdj92/contratos#readme"
+}
